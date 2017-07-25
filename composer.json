@@ -1,5 +1,5 @@
 {
-    "name": "turbo-waddle/robert",
+    "name": "rf7721/turbo-waddle",
     "autoload": {
         "psr-0" : {
             "TurboWaddle\\Robert" : "src"
