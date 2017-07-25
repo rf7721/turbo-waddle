@@ -1,2 +1,2 @@
 # turbo-waddle
-test repo acc1
+test repo acc1 r2
