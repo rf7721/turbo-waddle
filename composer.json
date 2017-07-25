@@ -1,0 +1,8 @@
+{
+    "name": "turbo-waddle/robert",
+    "autoload": {
+        "psr-0" : {
+            "TurboWaddle\\Robert" : "src"
+        }
+    }
+}
